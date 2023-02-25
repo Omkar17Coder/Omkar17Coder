@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **omkar17coder@gmail.com**
 
-- ⚡ Fun fact **I Striver for success**
+*
 
 
 

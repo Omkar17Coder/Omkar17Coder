@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkar17coder" alt="omkar17coder" /></a> </p>
 
-- 🌱 I’m currently learning **React JS Design Analysis of Algorithms and Exploring Firebase**
+- 🌱 I’m currently learning **React JS  Next Js  and Exploring Firebase**
 - 
 
 - 📫 How to reach me **omkar17coder@gmail.com**

@@ -12,7 +12,7 @@
 
 *
 
-
+[![An image of @omkar17coder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omkar17coder)](https://holopin.io/@omkar17coder)
 
 
 <h3 align="left">Languages and Tools:</h3>
